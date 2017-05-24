@@ -1,16 +1,16 @@
-## Bash
+# Bash
 
 - [.bash_aliases](https://gist.github.com/bsara/f89ce808398a82705ff2)
 
 
 
-## EditorConfig
+# EditorConfig
 
 - [editorconfig](https://gist.github.com/bsara/371d526a09192708a079)
 
 
 
-## Git
+# Git
 
 ### .gitattributes
 
@@ -36,13 +36,13 @@
 
 
 
-## Regex
+# Regex
 
 - [Email Address](https://gist.github.com/bsara/8313243)
 - [URL](https://gist.github.com/bsara/8313247)
 
 
 
-## Misc.
+# Misc.
 
 - [hosts (Blocked URLs)](https://gist.github.com/bsara/646b39f0e18afbd41559)
