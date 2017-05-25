@@ -6,7 +6,7 @@
 
 # EditorConfig
 
-- [editorconfig](https://gist.github.com/bsara/371d526a09192708a079)
+- [.editorconfig](https://gist.github.com/bsara/371d526a09192708a079)
 
 
 
