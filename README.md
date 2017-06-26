@@ -52,6 +52,12 @@
 
 
 
+# Windows
+
+- [Romove Pre-Installed Apps Script (Win 10)](https://gist.github.com/bsara/be97dab52542e04813ff)
+
+
+
 # Misc.
 
 - [hosts (Blocked URLs)](https://gist.github.com/bsara/646b39f0e18afbd41559)
