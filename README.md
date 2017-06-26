@@ -54,7 +54,7 @@
 
 # Windows
 
-- [Remove Pre-Installed Apps Script (Win 10)](https://gist.github.com/bsara/be97dab52542e04813ff)
+- [Remove Pre-Installed Apps (Win 10)](https://gist.github.com/bsara/be97dab52542e04813ff)
 
 
 
