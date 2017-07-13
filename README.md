@@ -47,6 +47,7 @@
 
 # Regex
 
+- [CSS Class Selector](https://gist.github.com/bsara/688b32fc0f853f96f98000229b9f9baf)
 - [Email Address](https://gist.github.com/bsara/8313243)
 - [URL](https://gist.github.com/bsara/8313247)
 
