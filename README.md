@@ -47,11 +47,17 @@
 
 # Regex
 
+<br/>
+
 ### CSS Class Selector
 <script src="https://gist.github.com/bsara/688b32fc0f853f96f98000229b9f9baf.js"></script>
 
+<br/>
+
 ### Email Address
 <script src="https://gist.github.com/bsara/8313243.js"></script>
+
+<br/>
 
 ### URL
 <script src="https://gist.github.com/bsara/8313247.js"></script>
