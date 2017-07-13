@@ -53,6 +53,9 @@
 ### CSS Class Name
 <script src="https://gist.github.com/bsara/688b32fc0f853f96f98000229b9f9baf.js"></script>
 
+### JavaScript File Name
+<script src="https://gist.github.com/bsara/c78a55e9fe2dd7a472d42f7187cb861b.js"></script>
+
 ### Kebab Case
 <script src="https://gist.github.com/bsara/fe9c7c4c227b735e02201d42a6b55934.js"></script>
 
