@@ -47,17 +47,20 @@
 
 # Regex
 
-### Camel Case
+### Case: Camel
 <script src="https://gist.github.com/bsara/c105f81448f0e4d5f9574d144e007711.js"></script>
+
+### Case: Kebab
+<script src="https://gist.github.com/bsara/fe9c7c4c227b735e02201d42a6b55934.js"></script>
+
+### Case: Pascal
+<script src="https://gist.github.com/bsara/1d421d6a63d9bc8d0ad3e677b1f2162e.js"></script>
 
 ### CSS Class Name
 <script src="https://gist.github.com/bsara/688b32fc0f853f96f98000229b9f9baf.js"></script>
 
 ### JavaScript File Name
 <script src="https://gist.github.com/bsara/c78a55e9fe2dd7a472d42f7187cb861b.js"></script>
-
-### Kebab Case
-<script src="https://gist.github.com/bsara/fe9c7c4c227b735e02201d42a6b55934.js"></script>
 
 ### Email Address
 <script src="https://gist.github.com/bsara/8313243.js"></script>
