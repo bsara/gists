@@ -47,13 +47,13 @@
 
 # Regex
 
-### [CSS Class Name](https://gist.github.com/bsara/688b32fc0f853f96f98000229b9f9baf)
+### CSS Class Name
 <script src="https://gist.github.com/bsara/688b32fc0f853f96f98000229b9f9baf.js"></script>
 
-### [Email Address](https://gist.github.com/bsara/8313243)
+### Email Address
 <script src="https://gist.github.com/bsara/8313243.js"></script>
 
-### [URL](https://gist.github.com/bsara/8313247)
+### URL
 <script src="https://gist.github.com/bsara/8313247.js"></script>
 
 
