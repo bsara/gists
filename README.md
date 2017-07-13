@@ -47,7 +47,7 @@
 
 # Regex
 
-### [CSS Class Selector](https://gist.github.com/bsara/688b32fc0f853f96f98000229b9f9baf)
+### [CSS Class Name](https://gist.github.com/bsara/688b32fc0f853f96f98000229b9f9baf)
 <script src="https://gist.github.com/bsara/688b32fc0f853f96f98000229b9f9baf.js"></script>
 
 ### [Email Address](https://gist.github.com/bsara/8313243)
