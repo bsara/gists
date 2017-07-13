@@ -48,7 +48,7 @@
 # Regex
 
 ### Camel Case
-<script src="https://gist.github.com/bsara/c105f81448f0e4d5f9574d144e007711.js"><script>
+<script src="https://gist.github.com/bsara/c105f81448f0e4d5f9574d144e007711.js"></script>
 
 ### CSS Class Name
 <script src="https://gist.github.com/bsara/688b32fc0f853f96f98000229b9f9baf.js"></script>
