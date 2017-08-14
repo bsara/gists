@@ -23,6 +23,7 @@
 ### .gitignore
 
 - [.gitignore_global](https://gist.github.com/bsara/222298560def65c1a655)
+- [.gitignore (Java - Maven)](https://gist.github.com/bsara/803d8623563cf62353773a7ab50dbb93)
 - [.gitignore (JavaScript)](https://gist.github.com/bsara/35ade5031d120c08adad)
 - [.gitignore (Visual Studio)](https://gist.github.com/bsara/d5912bfe2b9b22f2e425)
 
