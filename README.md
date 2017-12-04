@@ -39,11 +39,15 @@
 
 # JavaScript
 
+### Performance Tests
+
+- [Every vs. For Loop](https://jsperf.com/every-vs-forloop)
+- [Includes All](https://jsperf.com/includes-all)
+
 ### Scrollbars
 
 - [Element has Scrollbar?](https://gist.github.com/bsara/be9b2a30ec7a629062a0e244771ab1ed)
 - [Get Scrollbar Width](https://gist.github.com/bsara/c60dd6bbb04e0969221f607f0df68716)
-
 
 
 # Regex
